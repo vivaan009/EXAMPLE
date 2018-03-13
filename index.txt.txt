@@ -1,2 +1,4 @@
 hello amazon
 hello google
+how is weather today?
+Gold is cheaper today.
